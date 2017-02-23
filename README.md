@@ -8,3 +8,5 @@ My first work on git..... Hello Lets rule the world
 4. git add README.md
 5. git commit
 6. git push
+
+Then njoy............
